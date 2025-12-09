@@ -75,4 +75,6 @@ else
 }
   return resultat;
 }
+
+module.exports = {CalculaTipo};
   
